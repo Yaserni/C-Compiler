@@ -1,0 +1,14 @@
+
+function string y(int y)
+{
+    
+return 1.2;
+}
+
+function void main()
+{
+  var int x;
+  x=y(2.3);
+
+
+}

@@ -1,0 +1,9 @@
+
+
+function void main()
+{
+   var int x;
+   x=3.2;
+   
+
+}

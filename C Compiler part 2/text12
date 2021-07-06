@@ -1,0 +1,9 @@
+function void main()
+{
+
+   string a[10] ="hello";
+   a[3.2]='n';
+
+
+
+}

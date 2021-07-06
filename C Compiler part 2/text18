@@ -1,0 +1,14 @@
+
+
+function void main()
+{
+   var int* x;
+   // var real y;
+   // var char c;
+   //string a[50]="hello";
+
+   x=&x;
+
+   
+
+}

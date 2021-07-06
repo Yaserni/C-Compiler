@@ -1,0 +1,49 @@
+(CODE
+    (
+        (FUNCTION foo
+            (ARGS
+                ( INT
+                    ( x
+                        ( y z)
+                        
+                    )
+                    ( REAL f)
+                    
+                )
+            ) (TYPE VOID)
+            (BODY
+                (
+
+                    (IF-ELSE
+                        (> x y)
+                        
+                        (BLOCK
+
+                            (= x
+                                (+ x f)
+                                
+                            )
+                        )
+                    )
+                )
+            )
+        (
+            (FUNCTION goo (ARGS NONE) (TYPE CHAR)
+                (BODY
+
+                    (VAR INT
+                        (= c 0)
+                        
+                    )
+                )
+                )
+                (RETURN 'a')
+                
+            (FUNCTION MAIN (ARGS NONE) (TYPE VOID)
+                (BODY )
+                
+            )
+        )
+    )
+)
+Accepted

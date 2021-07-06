@@ -1,0 +1,9 @@
+
+function void main()
+{
+    var int x;
+    
+    x=fun();
+
+
+}

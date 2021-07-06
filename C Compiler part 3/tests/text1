@@ -1,0 +1,21 @@
+function void foo(int x,y,z;real f)
+{
+if(x>y){
+		x=x+f;
+}
+	else
+{
+		x=x+y+z;
+		x=f*2;
+		z=f;	
+}
+}
+function char goo ()
+{
+	var int c=0; 	
+	return 'a';	
+}
+function void main()
+{
+
+}

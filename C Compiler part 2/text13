@@ -1,0 +1,11 @@
+
+
+function void main()
+{
+ string a [10]="asd";
+ var int x;
+ x[1]='h';
+    
+   
+
+}

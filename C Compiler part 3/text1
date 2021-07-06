@@ -1,0 +1,10 @@
+
+function void main()
+{
+   
+    string x[12];
+    var char a;
+    x[2]=x[3];
+    
+}
+

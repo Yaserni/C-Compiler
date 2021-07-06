@@ -1,0 +1,19 @@
+function int f(int x)
+{
+    var int a;
+    var char aa;
+	string s[12];
+
+return aa;
+}
+function void main()
+{
+    var int a;
+	string s[12];
+	if(a>3)
+	{
+	var int x=a;
+	x=a+x-a+x;
+			
+	}
+}

@@ -1,0 +1,12 @@
+
+
+function void main()
+{
+   var int x;
+
+   if(x)
+   {
+          x=6;
+   }
+
+}

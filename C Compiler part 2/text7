@@ -1,0 +1,14 @@
+function int y(int y)
+{
+
+ return 4;
+}
+
+function void main()
+{
+   var int x;
+   x=y();
+
+
+
+}

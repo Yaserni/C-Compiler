@@ -1,0 +1,48 @@
+(CODE
+    (
+        (FUNCTION chek
+            (ARGS
+                ( INT
+                    ( x y)
+                    
+                )
+            ) (TYPE INT)
+            (BODY
+
+                (VAR REAL
+                    (= f 5)
+                    
+                )
+
+                (IF
+                    (> f 5)
+                    
+                    (= x
+                        (+ x 1)
+                        
+                    )
+                )
+            )
+            )
+            (RETURN x)
+            
+        (FUNCTION MAIN (ARGS NONE) (TYPE VOID)
+            (BODY
+
+                (VAR INT
+                    ( z)
+                    
+                )
+
+                (FUNC_CALL z
+                    ( 5
+                        ( z)
+                        
+                    )
+                )
+            )
+            )
+        )
+    )
+)
+Accepted

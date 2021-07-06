@@ -1,0 +1,41 @@
+(CODE
+    (FUNCTION MAIN (ARGS NONE) (TYPE VOID)
+        (BODY
+            (
+                (FUNCTION try
+                    (ARGS
+                        ( INT
+                            ( x1 x2)
+                            
+                        )
+                    ) (TYPE INT)
+                    (BODY
+
+                        (VAR INT
+                            (= x 0)
+                            
+                        )
+
+                        (IF
+                            (> x 4)
+                            
+                            (= x
+                                (* x 2)
+                                
+                            )
+                        )
+                    )
+                    )
+                    (RETURN 'x')
+                    
+
+                (VAR INT
+                    (= x 0)
+                    
+                )
+            )
+            )
+        )
+    )
+)
+Accepted

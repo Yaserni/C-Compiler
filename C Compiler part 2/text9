@@ -1,0 +1,14 @@
+
+function int y(int y)
+{
+    
+return 1;
+}
+
+function void main()
+{
+  var real x;
+  x=y(2.3);
+
+
+}

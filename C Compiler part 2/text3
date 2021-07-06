@@ -1,0 +1,22 @@
+
+function int y(int y)
+{
+    var int a;
+return y+1;
+
+
+}
+
+function int y(int y)
+{
+    var int a;
+return y+1;
+
+
+
+}
+
+function void main()
+{
+
+}

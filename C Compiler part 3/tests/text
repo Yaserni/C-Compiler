@@ -1,0 +1,15 @@
+function int check (int x,y)
+{
+   var real f=5.2,x1;
+   if((f>5.7) || (x<2))
+      x=x+1;
+
+ return x;
+
+}
+
+function void main()
+{
+   var int z;
+   z=check(5,z);
+}

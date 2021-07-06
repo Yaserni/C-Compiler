@@ -1,0 +1,36 @@
+
+function int y(int y)
+{
+    var int a;
+	var real s;
+y=12;
+return y+1;
+
+
+
+}
+
+function void main()
+{
+
+
+
+  var int i;
+  var int x;
+  y=2;
+for(i=0;i<5;i=i+5)
+{
+    var int x=5;
+    x=i+x;
+
+}
+
+if(x>5)
+    x=x-3;
+   else
+	for(x=12;x<1;x=x+1)
+	{if(x==12)x=1;}
+    
+   
+
+}

@@ -1,0 +1,14 @@
+function void main()
+{
+  function int try(int x1,x2)
+  {
+       var int x = 0;
+       if(x>4)
+        x=x*2;
+       return 'x';
+  }       
+
+  var int x=0;
+
+
+}
